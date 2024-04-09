@@ -15,4 +15,5 @@ git remote add origin git@github.com:kaizhenSun/repo_name.git
 git branch -M main
 git push -u origin main
 ```
-
+## generate ssh
+https://docs.github.com/zh/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
